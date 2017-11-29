@@ -1,7 +1,7 @@
 # GreenCapView
 ## 效果演示:
 
- - 详细介绍博客：[自定义View_为了做一个表情包，我写了这些代码](http://www.jianshu.com/p/62f76e8d2075)
+ - 详细介绍博客：[自定义View_为了做一个表情包，我写了这些代码](http://www.jianshu.com/p/5ca41a0bca21)
 
 ![](/art/biaoqingbaoView.gif)
 ![](/art/songchacha.gif)
